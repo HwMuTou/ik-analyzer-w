@@ -10,7 +10,7 @@
     <version>6.3.0</version>
 
     <properties>
-        <lucene-version>6.3.0</lucene-version>
+        <lucene-version>7.6.0</lucene-version>
     </properties>
 
     <dependencies>
